@@ -1,0 +1,4 @@
+# Introduction #
+
+Looking for developers and people to start coding the system.
+Architecture docs are done, It just needs coding.
